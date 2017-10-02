@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DisDetector</string>
+    <string name="search">Search</string>
+    <string name="sentiment_analysis_results">Sentiment Analysis Results</string>
+    <string name="term_to_analyze">Term To Analyze</string>
+    <string name="button">Button</string>
+    <string name="run_analyzer">Run Analyzer</string>
+    <string name="speech_text">Speech Text</string>
+    <string name="email_analysis_results">Email Analysis Results</string>
+    <string name="password">Password</string>
+    <string name="run_analyzer_on_your_latest_email">Run Analyzer on Your Latest Email</string>
+    <string name="search_text">Search Text</string>
+    <string name="use_speech">Use Speech</string>
+    <string name="username">Username</string>
+</resources>
